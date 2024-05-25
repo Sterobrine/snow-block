@@ -3,7 +3,7 @@
     <div class="header">
       <div class="mark">
         <a
-          href="https://www.baidu.com"
+          href="https://www.bilibili.com/video/BV1DHK1eBEqo"
           target="_blank"
           rel="noopener noreferrer nofollow"
           >介绍视频</a
@@ -11,7 +11,7 @@
       </div>
       <div class="mark">
         <a
-          href="https://www.baidu.com"
+          href="https://github.com/Sterobrine/snow-block/tree/main"
           target="_blank"
           rel="noopener noreferrer nofollow"
           >github源码</a
